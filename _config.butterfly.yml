@@ -74,7 +74,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon:
+favicon: /img/favicon.png
 
 # # Avatar (頭像)
 # avatar:
@@ -519,7 +519,7 @@ tag_ui: # 留空或 index
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: true
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -755,9 +755,9 @@ darkmode:
 # Choose: readmode,translate,darkmode,hideAside,toc,chat,comment
 # Don't repeat 不要重複
 rightside_item_order:
-  enable: false
+  enable: true
   hide: # readmode,translate,darkmode,hideAside
-  show: # toc,chat,comment
+  show: toc # toc,chat,comment
 
 # Lightbox (圖片大圖查看模式)
 # --------------------------------------

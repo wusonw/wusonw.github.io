@@ -8,7 +8,6 @@ comments:
 description:
 keywords:
 top_img: /img/img1.png
-aside: true
 highlight_shrink:
 
 categories:
