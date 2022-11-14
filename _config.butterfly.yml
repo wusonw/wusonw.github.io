@@ -974,7 +974,7 @@ ghbdage:
     # - link: https://vercel.com/
     #   shields: https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&logo=Codio
     #   message: 本站采用双线部署，联通线路托管于Coding
-    - link: https://github.com/
+    - link: https://github.com/wusonw/wusonw.github.io/
       shields: https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub
       message: 本站项目由Gtihub托管
     - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
