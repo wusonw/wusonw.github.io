@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <div class="target-color-box"></div>
+    <div id="target-color-box"></div>
     <script>
         const colors = [
             {color:'#e42112',weight:2},
@@ -23,7 +23,7 @@
             {color:'#753257',weight:4},
             {color:'#df4575',weight:5}
         ]
-        const targetColorBox = document.querySelector("target-color-box");
+        const targetColorBox = document.getElementById("target-color-box");
         targetColorBox.setAttribute('width','50vw')
         targetColorBox.setAttribute('height','50vh')
         targetColorBox.setAttribute('backgroundColor',blendColors(colors))
