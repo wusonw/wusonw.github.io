@@ -7,14 +7,14 @@ categories: # 【可选】文章分类
 keywords: # 【可选】文章关键字
 description: # 【可选】文章描述
 top_img: # 【可选】文章顶部图片
-comments: # 【可选】显示文章评论模块(默认 true)
+comments: true # 【可选】显示文章评论模块(默认 true)
 cover: # 【可选】文章缩略图(如果没有设置 top_img,文章页顶部将显示缩略图，可设为 false/图片地址/留空)
-toc: # 【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)
-toc_number: # 【可选】显示 toc_number(默认为设置中 toc 的 number 配置)
+toc: true # 【可选】显示文章 TOC(默认为设置中 toc 的 enable 配置)
+toc_number: 3 # 【可选】显示 toc_number(默认为设置中 toc 的 number 配置)
 toc_style_simple: # 【可选】显示 toc 简洁模式
 copyright: # 【可选】显示文章版权模块(默认为设置中 post_copyright 的 enable 配置)
-copyright_author: # 【可选】文章版权模块的文章作者
-copyright_author_href: # 【可选】文章版权模块的文章作者链接
+copyright_author: wusonw # 【可选】文章版权模块的文章作者
+copyright_author_href: http://github.com/wusonw # 【可选】文章版权模块的文章作者链接
 copyright_url: # 【可选】文章版权模块的文章连结链接
 copyright_info: # 【可选】文章版权模块的版权声明文字
 mathjax: # 【可选】显示 mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)
