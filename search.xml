@@ -4,19 +4,21 @@
   
     
     <entry>
-      <title>Hello world</title>
-      <link href="/articles/8bd69e52.html"/>
-      <url>/articles/8bd69e52.html</url>
+      <title>Electron + Nuxt3 构建桌面端应用</title>
+      <link href="/articles/30252660.html"/>
+      <url>/articles/30252660.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="1-Quick-Start"><a href="#1-Quick-Start" class="headerlink" title="1.Quick Start"></a>1.Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>Electron的出现给Web前端工程师开发跨平台应用带来了极大的便利，前端工程化不断发展，大批构建工具能够帮助前端工作者们快速搭建Web应用，Nuxt更是把开发体验做到了极致，前端工程师们不再需要过多的关注繁琐的环境搭建和配置，能够更加专注于应用本身的功能和逻辑。接下来，让我们一起动手搭建一个基于nuxt+electron的桌面应用。</p></blockquote><h2 id="简要介绍"><a href="#简要介绍" class="headerlink" title="简要介绍"></a>简要介绍</h2><p>使用 <a href="''">Electron</a> 和 <a href="''">Nuxt3</a> 构建桌面端应用程序</p>]]></content>
       
       
-      <categories>
-          
-          <category> test </category>
-          
-      </categories>
       
+        <tags>
+            
+            <tag> Electron </tag>
+            
+            <tag> Nuxt </tag>
+            
+        </tags>
       
     </entry>
     
