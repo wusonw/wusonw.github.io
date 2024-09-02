@@ -6,8 +6,8 @@
     "packageManager": "pnpm@9.0.0",
     "scripts": {
         "dev": "vitepress dev --host 0.0.0.0",
-        "build": "vitepress build",
-        "preview": "vitepress preview"
+        "docs:build": "vitepress build",
+        "docs:preview": "vitepress preview"
     },
     "keywords": [],
     "author": "",
