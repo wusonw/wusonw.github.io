@@ -88,8 +88,8 @@ defineProps({
 }
 .link {
     display: inline-block;
-    padding: 5px 15px;
-    border-radius: 40% !important;
+    padding: 5px 14px;
+    border-radius: 45% !important;
     text-align: center;
     border: 1px var(--vp-c-divider-light) solid;
     border-right: none;
